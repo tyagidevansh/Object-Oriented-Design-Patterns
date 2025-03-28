@@ -1,4 +1,4 @@
-# 🎯 [Introduction to Object-Oriented Programming and Design Patterns  ](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/)
+# 🎯 [Introduction to Object-Oriented Programming and Design Patterns  ]([https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/](https://nandini-gangrade.github.io/Object-Oriented-Design-Patterns/))
 
 Object-Oriented Programming (**OOP**) is a **paradigm** that structures software design around objects. Objects encapsulate **data (attributes)** and **behavior (methods)**, making code **reusable, modular, and maintainable**.  
 
