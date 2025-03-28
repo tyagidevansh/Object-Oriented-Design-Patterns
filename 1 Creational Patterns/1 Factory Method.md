@@ -1,4 +1,4 @@
-# **Factory Method Pattern 
+# Factory Method Pattern 
 Factory Method ek **creational design pattern** hai jo **objects create karne ka ek systematic aur reusable tarika provide karta hai** bina directly `new` keyword use kiye.  
 
 ✔ **Instead of direct object creation, hum ek "factory" class use karte hain jo decide karti hai ki kaunsa object return karna hai.**  
