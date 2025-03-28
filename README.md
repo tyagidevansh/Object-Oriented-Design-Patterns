@@ -34,40 +34,40 @@ These principles form the foundation of design patterns, ensuring well-structure
 ## Categories of Object-Oriented Design Patterns
 Design patterns are grouped into three primary categories:
 
-### **🔹 Creational Design Patterns**
+### **🔹 [Creational Design Patterns](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/tree/main/1%20Creational%20Patterns)**
 These patterns focus on **object creation mechanisms**, increasing flexibility and reusability.
 
 | Pattern | Description |
 |---------|-------------|
-| **Singleton**  | Ensures a class has only one instance with a global access point. |
-| **Factory**  | Provides an interface for creating objects without specifying concrete classes. |
-| **Builder**  | Separates object construction from its representation. |
-| **Prototype**  | Creates new objects by cloning existing ones. |
-| **Abstract Factory**  | Creates families of related objects without specifying their concrete classes. |
+| **[Singleton](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/1%20Creational%20Patterns/2%20Singleton%20Pattern.md)**  | Ensures a class has only one instance with a global access point. |
+| **[Factory](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/1%20Creational%20Patterns/1%20Factory%20Method.md)**  | Provides an interface for creating objects without specifying concrete classes. |
+| **[Builder](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/1%20Creational%20Patterns/3%20Builder%20Pattern.md)**  | Separates object construction from its representation. |
+| **[Prototype](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/1%20Creational%20Patterns/4%20Prototype%20Pattern.md)**  | Creates new objects by cloning existing ones. |
+| **[Abstract Factory](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/1%20Creational%20Patterns/1%20Factory%20Method.md)**  | Creates families of related objects without specifying their concrete classes. |
 
 
-### **🔹 Structural Design Patterns**
+### **🔹 [Structural Design Patterns](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/tree/main/2%20Structural%20Pattern)**
 These patterns simplify the **composition of objects and structures** while maintaining flexibility and efficiency.
 
 | Pattern | Description |
 |---------|-------------|
-| **Adapter**  | Enables incompatible interfaces to work together. |
+| **[Adapter](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/2%20Structural%20Pattern/1%20Adapter%20Pattern.md)**  | Enables incompatible interfaces to work together. |
 | **Composite**  | Organizes objects into tree structures for hierarchical representation. |
-| **Decorator**  | Dynamically extends the functionality of objects. |
-| **Facade**  | Provides a simplified interface to a complex subsystem. |
+| **[Decorator](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/2%20Structural%20Pattern/2%20Decorator%20Pattern.md)**  | Dynamically extends the functionality of objects. |
+| **[Facade](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/2%20Structural%20Pattern/3%20Facade%20Pattern.md)**  | Provides a simplified interface to a complex subsystem. |
 | **Proxy**  | Controls access to an object through an intermediary. |
 | **Bridge**  | Decouples abstraction from implementation for greater flexibility. |
 | **Flyweight**  | Optimizes memory by sharing objects instead of creating new ones. |
 
 
-### **🔹 Behavioral Design Patterns**
+### **🔹 [Behavioral Design Patterns](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/tree/main/3%20Behavioural%20Pattern)**
 These patterns manage **object interactions and responsibilities**, making communication more efficient.
 
 | Pattern | Description |
 |---------|-------------|
-| **Observer**  | Defines a dependency between objects, notifying changes automatically. |
-| **Strategy**  | Defines interchangeable algorithms for dynamic selection. |
-| **State**  | Enables objects to alter behavior based on their state. |
+| **[Observer](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/3%20Behavioural%20Pattern/2%20Observer%20Pattern.md)**  | Defines a dependency between objects, notifying changes automatically. |
+| **[Strategy](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/3%20Behavioural%20Pattern/1%20Strategy%20Pattern.md)**  | Defines interchangeable algorithms for dynamic selection. |
+| **[State](https://github.com/nandini-gangrade/Object-Oriented-Design-Patterns/blob/main/3%20Behavioural%20Pattern/3%20State%20Pattern.md)**  | Enables objects to alter behavior based on their state. |
 | **Command**  | Encapsulates requests as objects for flexible execution. |
 | **Visitor**  | Allows new operations to be performed on objects without modifying them. |
 | **Iterator**  | Provides a standardized way to traverse collections. |
